@@ -34,10 +34,21 @@ The notebook was run on Python 3.6.3, please ensure your version is at or above 
 - scipy
 
 ## Project Overview
-The main focus of this projects was to analyse Airbnb seattle's data to try and find a reason for their success. I asked 3 main questions in order to find the answer to my main question:
+The main focus of this project was to analyze Airbnb Seattle's data to try and find a reason for their success. I asked 3 main questions in order to find the answer to my main question:
 - Does the amount of available listings affect the price?
 - What is the most common type of Airbnb living situation?
 - What is the most listed price range?
+
+## Process followed with each question:
+I followed the crisp-dm methodology to answer each of these questions as well as to answer the overall question. 
+
+The crisp-dm process is as follows:
+- Business understanding
+- Data understanding
+- Data preparation
+- Modeling
+- Evaluation
+- Deployment
 
 ## Summary of results
 The first question I asked was about how the availability was affecting the price. To my surprise, I couldn't find any significant link between price and availability. To me, this might be an indication that Airbnb could have an oversupply of listings and therefore a shortage won't happen at the moment. For Airbnb, this is a great thing since it means that they will always be able to help the end user, and since they don’t own the living quarters themselves they won’t take too much know when demand is low.
