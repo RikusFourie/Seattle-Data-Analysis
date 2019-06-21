@@ -6,10 +6,18 @@ https://medium.com/@rikus.fourie/in-search-of-airbnbs-success-ff16edbb2555?postP
 ## File contents
 
     .
+    ├── images                                     #Static plotly figures. See notebook for description
+        ├── bin25.png
+        ├── bin50.png
+        ├── bin75.png
+        ├── pandr_type.png
+        ├── pricevsapart.png
+        ├── property.png
+        └── property.png
     ├── seattle                                     #Datasets
-        ├── calendar.csv
-        ├── listings.csv
-        └── reviews.csv
+        ├── calendar.csv                            #Calander listings
+        ├── listings.csv                            #Listings details
+        └── reviews.csv                             #Reviews details
     ├── SeattleAnalysis.html                        #Html version of workspace
     ├── SeattleAnalysis.ipynb                       #Workspace where all analysis where completed
     ├── LICENSE
